@@ -19,7 +19,7 @@ namespace Uppgift_2._11
             int x = 10;
             int y = 6;
             int z = 4;
-            Console.WriteLine(hoppade + Elin + hoppade2 + Alma);
+            Console.WriteLine(hoppade + Elin + hoppade2 + Alma); 
         }
     }
 }
